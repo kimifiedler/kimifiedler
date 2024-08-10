@@ -21,5 +21,3 @@ I'm currently an apprentice as an IT Specialist in Application Development at Me
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![VBA](https://img.shields.io/badge/VBA-8672A2?style=for-the-badge&logo=vba&logoColor=white)
-
-
