@@ -3,7 +3,7 @@
 I'm currently an apprentice as an IT Specialist in Application Development at Mercedes Benz Group Service Berlin. My expertise lies in full-stack development, where I focus on creating comprehensive solutions that encompass both front-end and back-end aspects.
 
 ## 👥 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi_Fiedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimi-fiedler-5b72a1296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi_Fiedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimi-moritz-fiedler-5b72a1296/)
 
 ## 🖥️ My tech stack
 
