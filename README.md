@@ -1,9 +1,13 @@
 # Hello, I'm Kimi Moritz! 👋
 
-I'm a software developer based in Berlin, Germany, working for Mercedes-Benz Group Services Berlin. In addition to my job, I am studying Computer Science at FernUni Hagen. In my role, I specialise in the .NET ecosystem, primarily developing C# desktop applications that solve real business problems.
+I'm a software developer based in Berlin, Germany, currently working at **Mercedes-Benz Group Services Berlin**. Alongside my professional role, I’m pursuing a degree in **Computer Science** at **FernUniversität in Hagen**.
 
-## 👥 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi_Fiedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimi-moritz-fiedler-5b72a1296/)
+I specialize in the **.NET ecosystem**, focusing primarily on developing **C# desktop applications**.
+
+## 👥 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi_Moritz_Fiedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimi-moritz-fiedler-5b72a1296/)  
+📧 **Email:** [kimi.fiedler@web.de](mailto:kimi.fiedler@web.de)
 
 ## 🖥️ My tech stack
 
