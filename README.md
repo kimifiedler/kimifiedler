@@ -6,8 +6,8 @@ I specialize in the **.NET ecosystem**, focusing primarily on developing **C# de
 
 ## 👥 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimi_Moritz_Fiedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kimi-moritz-fiedler-5b72a1296/)  
-📧 **Email:** [kimi.fiedler@web.de](mailto:kimi.fiedler@web.de)
+[**LinkedIn**](https://www.linkedin.com/in/kimi-moritz-fiedler-5b72a1296/) • [**GitHub**](https://github.com/kimifiedler)
+📧 [kimimoritz.fiedler@gmail.com](mailto:kimimoritz.fiedler@gmail.com)
 
 # 🖥️ Tech Stack
 
